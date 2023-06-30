@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @22-khaled
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Engineering and ML
+- 🌱 I’m currently learning Data Science and Deep Learning
 - 📫 How to reach me khaledtayem7@gmail.com
 
 <!---
